@@ -12,7 +12,7 @@ Learn Rails via To-Do app
 
 ### Author(s) ###
 
-Andrew Finstrom Chris Sefkin
+Andrew Finstrom & Chris Sefkin
 
 ### Pre-reqs ###
 
